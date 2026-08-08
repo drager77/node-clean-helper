@@ -2,3 +2,4 @@
 node project
 - `reverse` helper
 - `unique` helper
+- `clamp` helper
